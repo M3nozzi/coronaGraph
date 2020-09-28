@@ -16,5 +16,5 @@ This project use:
 * Axios
 * CSS
 * HTML
-*react-chartjs-2
+* react-chartjs-2
 
