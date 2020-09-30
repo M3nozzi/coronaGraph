@@ -1,9 +1,9 @@
 # CoronaGraph
-> That's a plataform to stay up to date on covid data around world and for each country.
+> That's a plataform to have data about covid19 around the world. We can see global data and data for each country.
 If you would like to know more about this project click on this [link](https://www.coronagraph.tk/).
 
 # About the data
-* The Data us constantly updated by the external API.
+* The Data is constantly updated by the external API, so we can see current data.
 
 ## Next Features
 - [ ] Improve chart layout
