@@ -5,8 +5,7 @@ If you would like to know more about this project click on this [link](https://w
 # About the data
 * The Data is constantly updated by the external API, so we can see current data.
 
-<img src="https://res.cloudinary.com/menozzi/image/upload/v1604077578/project2/CoronaGraph_rlrdz8.gif" alt="gif Corona Data App">
-
+<img src="https://res.cloudinary.com/menozzi/image/upload/v1604078319/project2/coronaapp_grsgft.gif" alt="gif Corona Data App">
 
 ## Next Features
 - [ ] Improve chart layout
